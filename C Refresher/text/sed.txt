@@ -1,0 +1,6 @@
+This is a sentence to test the sed program
+more sentences containing more words
+blahblah heheblahblahblah blahblahhehe blahheblahheblah blah
+A similar line to the last:
+blehblah heheblahblahblah blahblahhehe blahheblahheblah blah
+
